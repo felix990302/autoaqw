@@ -1,0 +1,3 @@
+[submodule "imagesearch"]
+	path = imagesearch
+	url = https://github.com/felix990302/imagesearch
