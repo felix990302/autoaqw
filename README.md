@@ -5,3 +5,4 @@ An attempt to farm one of my childhood loves using python
 Linux:
 - (optional) create a virtualenv
 - pip install -r requirements.txt
+- pip install .
