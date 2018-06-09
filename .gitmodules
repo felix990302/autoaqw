@@ -1,0 +1,3 @@
+[submodule "pyimagesearch"]
+	path = pyimagesearch
+	url = https://github.com/felix990302/pyimagesearch
