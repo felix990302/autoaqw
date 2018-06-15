@@ -1,9 +1,17 @@
+-e git+git@github.com:felix990302/autoaqw.git@5b1b679c4ff1d490db0b18776f100612353a9db3#egg=autoaqw
 click==6.7
 first==2.0.1
+flake8==3.5.0
+mccabe==0.6.1
+numpy==1.14.4
+opencv-python==3.4.1.15
 Pillow==5.1.0
 pkg-resources==0.0.0
 PyAutoGUI==0.9.36
+pycodestyle==2.3.1
+pyflakes==1.6.0
 PyMsgBox==1.0.6
 PyScreeze==0.1.14
+python3-xlib==0.15
 PyTweening==1.0.3
 six==1.11.0
